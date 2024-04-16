@@ -1,4 +1,5 @@
 #!/bin/bash
+#Multiplication Table 
 
 read -p "Enter a number for the multiplication table: " number
 
